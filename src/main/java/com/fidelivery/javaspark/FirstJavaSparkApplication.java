@@ -1,10 +1,9 @@
 package com.fidelivery.javaspark;
 
-import org.apache.spark.api.java.JavaSparkContext;
-import org.apache.spark.sql.SparkSession;
-
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+import org.apache.spark.api.java.JavaSparkContext;
+import org.apache.spark.sql.SparkSession;
 
 public class FirstJavaSparkApplication {
 
